@@ -5,7 +5,7 @@ This project focuses on designing and simulating a microcontroller-based voltage
 
 ## Project Features
 - Voltage monitoring and fault detection
-- Overcurrent fault detection
+- Overcurrent fault detection.
 - Load disconnection during fault conditions
 - Computer communication and configurable settings, as implemented
 - Simulation-based testing
